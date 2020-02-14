@@ -1,14 +1,15 @@
-img:hover .cuore{
-            visibility: visible;
-                  }
+#photo:hover .cuore{
+            visibility:visible;
+            }
 .box {
+      visibility:visible;
       display: inline-block;
       }
 .cuore {
         position: relative;
         left: 91px;
         width: 20px;
-        visibility: hidden;
+        visibility:hidden;
         }
 
 .photolove {
