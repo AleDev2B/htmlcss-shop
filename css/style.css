@@ -1,58 +1,18 @@
 .box1:hover {
-  visibility:hidden;
-              }
-.box1 {
-  visibility:visible;
+            visibility:hidden;
+            }
+.box {
+      visibility:visible;
+      display: inline-block;
       }
 .cuore {
-  position: relative;
-  left: 91px;
-  width: 20px;
-  visibility:visible;
+        position: relative;
+        left: 91px;
+        width: 20px;
+        visibility:visible;
         }
 
-.photolove1 {
-    display: inline-block;
-    width: 230px;
+.photolove {
+            display: inline-block;
+            width: 230px;
             }
-
-.photolove2 {
-    display: inline-block;
-    width: 230px;
-              }
-
-.photolove3 {
-    display: inline-block;
-    width: 230px;
-              }
-
-.box3 {
-  display: inline-block;
-        }
-
-.photolove4 {
-          display: inline-block;
-          width: 230px;
-              }
-
-.box4 {
-  display: inline-block;
-        }
-
-.photolove5 {
-    display: inline-block;
-    width: 230px;
-              }
-
-.box5 {
-  display: inline-block;
-        }
-
-.photolove6 {
-    display: inline-block;
-    width: 230px;
-              }
-
-.box6 {
-  display: inline-block;
-        }
